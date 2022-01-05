@@ -8,7 +8,7 @@ These are completed boxes having their links and corresponding walkthroughs.
 |[kioptrix level 4](https://www.vulnhub.com/entry/kioptrix-level-13-4,25/) - [Walkthrough]()|||
 |[Nyx: 1](https://www.vulnhub.com/entry/nyx-1,535/) - [Walkthrough]()|||
 |[Crossroads: 1](https://www.vulnhub.com/entry/crossroads-1,659/) - [Walkthrough]()|||
-|[Gigachad: 1](https://www.vulnhub.com/entry/gigachad-1,657/) - [Walkthrough]()|||
+|[Gigachad: 1](https://www.vulnhub.com/entry/gigachad-1,657/) - [Walkthrough](https://systemweakness.com/vulnhub-gigachad-walkthrough-df8f6993c876)|||
 |[NoobBox: 1](https://www.vulnhub.com/entry/noobbox-1,664/) - [Walkthrough]()|||
 |[VulnOS: 2](https://www.vulnhub.com/entry/vulnos-2,147/) - [Walkthrough]()|||
 |[Pwned: 1](https://www.vulnhub.com/entry/pwned-1,507/) - [Walkthrough]()|||
