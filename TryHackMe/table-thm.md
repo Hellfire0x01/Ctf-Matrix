@@ -93,7 +93,7 @@ These are completed rooms having their room links and corresponding walkthroughs
 ||Intro PoC Scripting - Walkthrough|||
 ||Break Out The Cage - Walkthrough|||
 ||Atlas - Walkthrough|||
-||Steel Mountain|||
+||[Steel Mountain](https://tryhackme.com/room/steelmountain) - [Walkthrough](https://hellfire0x01.medium.com/tryhackme-steel-mountain-walkthrough-bad26f1cc46d)|||
 ||SQL Injection Lab - Walkthrough|||
 ||Alfred||Game Zone||Skynet||Attacking Kerberos|||
 ||kiba - Walkthrough|||
