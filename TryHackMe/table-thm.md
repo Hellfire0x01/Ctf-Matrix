@@ -55,7 +55,7 @@ These are completed rooms having their room links and corresponding walkthroughs
 |||[Jack of All Trades](https://tryhackme.com/room/jackofalltrades)|[Walkthrough]()|||||
 |||[Smag Grotto](https://tryhackme.com/room/smaggrotto)|[Walkthrough]()|||||
 |||[Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)|[Walkthrough]()|||||
-|||[Steel Mountain](https://tryhackme.com/room/steelmountain)|[Walkthrough]()|||||
+|||[Steel Mountain](https://tryhackme.com/room/steelmountain)|[Walkthrough](https://hellfire0x01.medium.com/tryhackme-steel-mountain-walkthrough-bad26f1cc46d)|||||
 |||[Alfred](https://tryhackme.com/room/alfred)|[Walkthrough]()|||||
 |||[kiba](https://tryhackme.com/room/kiba)|[Walkthrough]()|||||
 |||[All In One](https://tryhackme.com/room/allinonemj)|[Walkthrough]()|||||
