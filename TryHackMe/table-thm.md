@@ -2,10 +2,10 @@ These are completed rooms having their room links and corresponding walkthroughs
 
 |**Info**|**Writeup**|**Easy**|**Writeup**|**Medium**|**Writeup**|**Hard**|**Writeup**|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|||[Agent Sudo](https://tryhackme.com/room/agentsudoctf)|[Walkthrough]()|[Anonymous](https://tryhackme.com/room/anonymous.)|[Walkthrough]()|[Daily Bugle](https://tryhackme.com/room/dailybugle)|[Walkthrough]()|
-|||[Anonforce](https://tryhackme.com/room/bsidesgtanonforce)|[Walkthrough]()|[ConvertMyVideo](https://tryhackme.com/room/convertmyvideo.)|[Walkthrough]()|[Internal](https://tryhackme.com/room/internal)|[Walkthrough]()|
+|||[Agent Sudo](https://tryhackme.com/room/agentsudoctf)|[Walkthrough](https://hellfire0x01.github.io/posts/AgentSudo/)|[Anonymous](https://tryhackme.com/room/anonymous.)|[Walkthrough]()|[Daily Bugle](https://tryhackme.com/room/dailybugle)|[Walkthrough]()|
+|||[Anonforce](https://tryhackme.com/room/bsidesgtanonforce)|[Walkthrough](https://hellfire0x01.github.io/posts/Anonforce/)|[ConvertMyVideo](https://tryhackme.com/room/convertmyvideo.)|[Walkthrough]()|[Internal](https://tryhackme.com/room/internal)|[Walkthrough]()|
 |||[Anthem](https://tryhackme.com/room/anthem)|[Walkthrough]()|[HackPark](https://tryhackme.com/room/hackpark)|[Walkthrough]()|||
-|||[Blaster](https://tryhackme.com/room/blaster)|[Walkthrough]()|[GoldenEye](https://tryhackme.com/room/goldeneye)|[Walkthrough]()|||
+|||[Blaster](https://tryhackme.com/room/blaster)|[Walkthrough](https://hellfire0x01.github.io/posts/Blaster/)|[GoldenEye](https://tryhackme.com/room/goldeneye)|[Walkthrough]()|||
 |||[Blue](https://tryhackme.com/room/blue)|[Walkthrough]()|[Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)|[Walkthrough]()|||
 |||[Bolt](https://tryhackme.com/room/bolt)|[Walkthrough]()|[Relevant](https://tryhackme.com/room/relevant)|[Walkthrough]()|||
 |||[Bounty Hacker](https://tryhackme.com/room/cowboyhacker)|[Walkthrough]()|[Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)|[Walkthrough]()|||
