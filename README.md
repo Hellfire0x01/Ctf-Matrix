@@ -1,4 +1,4 @@
-# ctf-tables
+# Ctf-Matrix
 
 ## Hi and welcome! (:
 
