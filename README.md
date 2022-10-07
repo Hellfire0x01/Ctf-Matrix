@@ -14,9 +14,9 @@ Here is the table which will take you to your desired box writeup. (:
 
 |S. No|Platform|
 |:---:|:---:|
-|1|[TryHackMe](https://github.com/Hellfire0x01/CTF-Walkthroughs/blob/main/TryHackMe/table-thm.md)|
-|2|[HackTheBox](https://github.com/Hellfire0x01/CTF-Walkthroughs/blob/main/HackTheBox/table-htb.md)|
-|3|[VulnHub](https://github.com/Hellfire0x01/CTF-Walkthroughs/blob/main/Vulnhub/table-vulnhub.md)|
+|1|[TryHackMe](https://github.com/Hellfire0x01/Ctf-Matrix/blob/main/TryHackMe/thm-matrix.md)|
+|2|[HackTheBox](https://github.com/Hellfire0x01/Ctf-Matrix/blob/main/HackTheBox/htb-matrix.md)|
+|3|[VulnHub](https://github.com/Hellfire0x01/Ctf-Matrix/blob/main/Vulnhub/vulnhub-matrix.md)|
 
 ## Credits 
 Following are the people who contributed their writeups. I would personally like to thank these people who contributed in this project. Thankyou, thankyou so much for helping me. (:
