@@ -19,7 +19,6 @@ These are completed rooms having their room links and corresponding walkthroughs
 |[Ice](https://tryhackme.com/room/ice)|[Walkthrough]()|||||
 |[Ignite](https://tryhackme.com/room/ignite)|[Walkthrough]()|||||
 |[Inclusion](https://tryhackme.com/room/inclusion)|[Walkthrough]()|||||
-|[Introductory Researching!](https://tryhackme.com/room/introtoresearch)|[Walkthrough]()|||||
 |[LazyAdmin](https://tryhackme.com/room/lazyadmin)|[Walkthrough]()|||||
 |[Lian_Yu](https://tryhackme.com/room/lianyu)|[Walkthrough]()|||||
 |[Library](https://tryhackme.com/room/bsidesgtlibrary)|[Walkthrough]()|||||
