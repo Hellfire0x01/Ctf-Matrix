@@ -8,8 +8,8 @@ These are completed rooms having their room links and corresponding walkthroughs
 |[Blaster](https://tryhackme.com/room/blaster)|[Walkthrough](https://hellfire0x01.github.io/posts/Blaster/)|[GoldenEye](https://tryhackme.com/room/goldeneye)|[Walkthrough](https://hellfire0x01.github.io/posts/GoldenEye/)|||
 |[Blue](https://tryhackme.com/room/blue)|[Walkthrough](https://hellfire0x01.github.io/posts/Blue/)|[Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)|[Walkthrough](https://hellfire0x01.github.io/posts/Attacktive-Directory/)|||
 |[Bolt](https://tryhackme.com/room/bolt)|[Walkthrough](https://hellfire0x01.github.io/posts/Bolt/)|[Relevant](https://tryhackme.com/room/relevant)|[Walkthrough](https://hellfire0x01.github.io/posts/Relevant/)|||
-|[Bounty Hacker](https://tryhackme.com/room/cowboyhacker)|[Walkthrough](https://hellfire0x01.github.io/posts/Bounty-Hacker/)|[Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)|[Walkthrough]()|||
-|[Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)|[Walkthrough](https://hellfire0x01.github.io/posts/Brooklyn-Nine-Nine/)|||||
+|[Bounty Hacker](https://tryhackme.com/room/cowboyhacker)|[Walkthrough](https://hellfire0x01.github.io/posts/Bounty-Hacker/)|[Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)|[Walkthrough](https://hellfire0x01.github.io/posts/Overpass-3-Hosting/)|||
+|[Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)|[Walkthrough](https://hellfire0x01.github.io/posts/Brooklyn-Nine-Nine/)|[CMSpit](https://tryhackme.com/room/cmspit)|[Walkthrough](https://hellfire0x01.github.io/posts/CMSpit/)|||
 |[Brute It](https://tryhackme.com/room/bruteit)|[Walkthrough](https://hellfire0x01.github.io/posts/Brute-It/)||||
 |[c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)|[Walkthrough]()||||
 |[Couch](https://tryhackme.com/room/couch)|[Walkthrough](https://hellfire0x01.github.io/posts/Couch/)|||||
